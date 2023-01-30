@@ -7,3 +7,4 @@ function buttonClicked(){
 	//select the element 
 	let buttonDiv = document.getElementById("button-div"); 
 	buttonDiv.innerHTML = newText; 
+}
